@@ -13,6 +13,8 @@
 .Uc, .ZJ, .Uc.ZJ {
 	position:relative !important;
 }
+/* azure.microsoft.com Docs */
+header[data-tag-area="header"],
 .Uc {
 	display:none !important;
 }
